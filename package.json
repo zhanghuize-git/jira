@@ -11,6 +11,7 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react-hooks": "^5.0.0-next-c08d8b804-20221118",
     "qs": "^6.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
